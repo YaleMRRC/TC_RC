@@ -4,7 +4,7 @@
 </p>
 
 
-These set of functions are used to generate the anlaysis in Salehi et al. [1]. This paper uses data from three Yale data sets (n-back, gradCPT, and ANT tasks) and the Human Connectome Project (HCP) S900 release [2]. This repository includes MATLAB and R functions to develope the higher-order measure predictive modeling.
+These set of functions are used to generate the anlaysis in Salehi et al. [1]. This paper uses data from three Yale data sets (n-back, gradCPT, and ANT tasks) and the Human Connectome Project (HCP) S900 release [2] to predict individual differences in attention within- and across data sets. This repository includes MATLAB and R functions to develope the higher-order measure predictive modeling.
 
 
 ### References
