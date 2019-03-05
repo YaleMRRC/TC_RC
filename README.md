@@ -1,6 +1,6 @@
 # Higher-order Predictive Modeling
 <p align="center">
-	<img src ="images/TC_RC_pipeline.jpg" height="347" />
+	<img src ="images/TC_RC_pipeline.jpg" height="500" />
 </p>
 
 
